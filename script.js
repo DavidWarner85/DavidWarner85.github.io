@@ -20,11 +20,13 @@ Hello Larry
 Hello Paula
 Hello Laura
 Good Bye Jim
+
 WARNING!!! WARNING!!!
 The code does NOT currently work! It is YOUR job to make it work
 as described in the requirements and the steps in order to complete this
 assignment.
 WARNING!!! WARNING!!!
+
 */
 
 // STEP 1: (NOTHING TO DO. ALREADY DONE FOR YOU)
@@ -37,8 +39,7 @@ var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula"
 
 // STEP 10: (NOTHING TO DO. ALREADY DONE FOR YOU)
 // Loop over the names array and say either 'Hello' or "Good Bye"
-// using the 'speak' method or either helloSpeaker's or byeSpeaker's
-// 'speak' method.
+// using either the helloSpeaker's or byeSpeaker's 'speak' method.
 // See Lecture 50, part 1
 for (var i = 0; i < names.length; i++) {
 
